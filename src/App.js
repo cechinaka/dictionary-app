@@ -3,9 +3,14 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <div className="container">
+        <header className="App-header">
         
-      </header>
+        </header>
+        <footer className='text-center'>
+          Coded by Christie Chinaka on Github and hosted on Netlify
+        </footer>
+      </div>
     </div>
   );
 }
